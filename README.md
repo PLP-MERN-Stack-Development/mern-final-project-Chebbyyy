@@ -10,6 +10,7 @@ The platform celebrates diversity, fosters innovation, and builds a supportive c
 
 - **Frontend**: [https://empower-her-final-project-npn9.vercel.app/](https://empower-her-final-project-npn9.vercel.app/)
 - **Backend API**: [https://empower-her-final-project.onrender.com/](https://empower-her-final-project.onrender.com/)
+- **Pitch Deck**: .[https://www.canva.com/design/DAGxy8GUrQo/W-aimJlagf6NIP0czPfXgg/edit)
 
 ## Features
 
@@ -270,3 +271,4 @@ If you have any questions or need help, please:
 ---
 
 *EmpowerHer - Celebrating diversity, fostering innovation, and building a world where every woman can lead with confidence.*
+
